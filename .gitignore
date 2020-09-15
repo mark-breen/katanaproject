@@ -19,3 +19,12 @@ node_modules
 *.snk
 .nuget/NuGet.exe
 docs/build
+.idea/config/applicationhost.config
+.idea/.idea.Katana/.idea/vcs.xml
+.idea/.idea.Katana/.idea/projectSettingsUpdater.xml
+.idea/.idea.Katana/.idea/indexLayout.xml
+.idea/.idea.Katana/.idea/.name
+.idea/.idea.Katana/.idea/workspace.xml
+.idea/.idea.Katana/.idea/modules.xml
+.idea/.idea.Katana/riderModule.iml
+.idea/.idea.Katana/.idea/contentModel.xml
